@@ -113,7 +113,7 @@ body {
     body {
         padding: 8%;
     }
-
+    
     #logo {
         width: 33px;
         height: 44px;
@@ -149,6 +149,10 @@ body {
 
     .links {
         display:none;
+    }
+
+    .front {
+        align-content: left;
     }
 
     .front .download {
