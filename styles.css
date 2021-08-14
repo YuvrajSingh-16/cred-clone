@@ -142,9 +142,8 @@ body {
         font-size: 20px;
         font-family: Gilroy-light;
         font-weight: 800;
-        margin-right: 35%;
         line-height: 25px;
-        margin-right: 50%;
+        margin-right: 35%;
     }
 
     .links {
@@ -153,6 +152,7 @@ body {
 
     .front {
         align-content: left;
+        
     }
 
     .front .download {
